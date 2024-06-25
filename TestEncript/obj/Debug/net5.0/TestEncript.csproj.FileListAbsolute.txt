@@ -1,0 +1,16 @@
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.csproj.AssemblyReference.cache
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.AssemblyInfoInputs.cache
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.AssemblyInfo.cs
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.csproj.CoreCompileInputs.cache
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\bin\Debug\net5.0\TestEncript.exe
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\bin\Debug\net5.0\TestEncript.deps.json
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\bin\Debug\net5.0\TestEncript.runtimeconfig.json
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\bin\Debug\net5.0\TestEncript.runtimeconfig.dev.json
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\bin\Debug\net5.0\TestEncript.dll
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\bin\Debug\net5.0\ref\TestEncript.dll
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\bin\Debug\net5.0\TestEncript.pdb
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.dll
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\ref\TestEncript.dll
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.pdb
+C:\Users\MatiasCorrea\source\repos\TestEncript\TestEncript\obj\Debug\net5.0\TestEncript.genruntimeconfig.cache
